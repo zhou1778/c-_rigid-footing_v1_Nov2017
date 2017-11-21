@@ -1,0 +1,5 @@
+D:\C#_Tim\T9-Nov2017_MeetingVersion\Presentation1\Presentation1\bin\Debug\Presentation1.exe
+D:\C#_Tim\T9-Nov2017_MeetingVersion\Presentation1\Presentation1\bin\Debug\Presentation1.pdb
+D:\C#_Tim\T9-Nov2017_MeetingVersion\Presentation1\Presentation1\obj\x86\Debug\Presentation1.exe
+D:\C#_Tim\T9-Nov2017_MeetingVersion\Presentation1\Presentation1\obj\x86\Debug\Presentation1.pdb
+D:\C#_Tim\T9-Nov2017_MeetingVersion\Presentation1\Presentation1\obj\x86\Debug\Presentation1.csprojResolveAssemblyReference.cache
